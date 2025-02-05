@@ -9,7 +9,7 @@ fi
 
 # Função para exibir a versão
 show_version() {
-    echo "Versão do Script (Git): $VERSION"
+    echo "Versão do Script: $VERSION"
 }
 
 # Exibir a versão se o usuário pedir
